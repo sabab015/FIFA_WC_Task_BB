@@ -1,5 +1,5 @@
 .container {
-    background-color: #064a90;
+    background-color: #fef2b5;
 }
 
 #title {
@@ -34,7 +34,7 @@
 
 .panel {
     width: 100%;
-    height: 300px;
+    height: 280px;
 }
 
 .panel:hover {
